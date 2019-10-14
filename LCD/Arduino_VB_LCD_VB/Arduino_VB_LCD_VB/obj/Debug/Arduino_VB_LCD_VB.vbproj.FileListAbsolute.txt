@@ -1,0 +1,15 @@
+C:\Users\orabus\Desktop\Arduino VB\LCD\Arduino_VB_LCD_VB\Arduino_VB_LCD_VB\bin\Debug\Arduino_VB_LCD_VB.exe.config
+C:\Users\orabus\Desktop\Arduino VB\LCD\Arduino_VB_LCD_VB\Arduino_VB_LCD_VB\bin\Debug\Arduino_VB_LCD_VB.exe
+C:\Users\orabus\Desktop\Arduino VB\LCD\Arduino_VB_LCD_VB\Arduino_VB_LCD_VB\bin\Debug\Arduino_VB_LCD_VB.pdb
+C:\Users\orabus\Desktop\Arduino VB\LCD\Arduino_VB_LCD_VB\Arduino_VB_LCD_VB\bin\Debug\Arduino_VB_LCD_VB.xml
+C:\Users\orabus\Desktop\Arduino VB\LCD\Arduino_VB_LCD_VB\Arduino_VB_LCD_VB\obj\Debug\Arduino_VB_LCD_VB.vbprojAssemblyReference.cache
+C:\Users\orabus\Desktop\Arduino VB\LCD\Arduino_VB_LCD_VB\Arduino_VB_LCD_VB\obj\Debug\Arduino_VB_LCD_VB.Form1.resources
+C:\Users\orabus\Desktop\Arduino VB\LCD\Arduino_VB_LCD_VB\Arduino_VB_LCD_VB\obj\Debug\Arduino_VB_LCD_VB.Resources.resources
+C:\Users\orabus\Desktop\Arduino VB\LCD\Arduino_VB_LCD_VB\Arduino_VB_LCD_VB\obj\Debug\Arduino_VB_LCD_VB.vbproj.GenerateResource.cache
+C:\Users\orabus\Desktop\Arduino VB\LCD\Arduino_VB_LCD_VB\Arduino_VB_LCD_VB\obj\Debug\Arduino_VB_LCD_VB.exe
+C:\Users\orabus\Desktop\Arduino VB\LCD\Arduino_VB_LCD_VB\Arduino_VB_LCD_VB\obj\Debug\Arduino_VB_LCD_VB.xml
+C:\Users\orabus\Desktop\Arduino VB\LCD\Arduino_VB_LCD_VB\Arduino_VB_LCD_VB\obj\Debug\Arduino_VB_LCD_VB.pdb
+C:\Users\orabus\Desktop\Arduino VB\LCD\Arduino_VB_LCD_VB\Arduino_VB_LCD_VB\bin\Debug\Arduino_VB_LCD_VB.exe.manifest
+C:\Users\orabus\Desktop\Arduino VB\LCD\Arduino_VB_LCD_VB\Arduino_VB_LCD_VB\bin\Debug\Arduino_VB_LCD_VB.application
+C:\Users\orabus\Desktop\Arduino VB\LCD\Arduino_VB_LCD_VB\Arduino_VB_LCD_VB\obj\Debug\Arduino_VB_LCD_VB.exe.manifest
+C:\Users\orabus\Desktop\Arduino VB\LCD\Arduino_VB_LCD_VB\Arduino_VB_LCD_VB\obj\Debug\Arduino_VB_LCD_VB.application
